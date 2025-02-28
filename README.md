@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm furgonetah (César)</h1>
 <h3 align="center">Currently studying and digging new languages, tools and knowledge in general.</h3>
 
-- 🔭 I’m currently working on [Dwarfing Around](https://github.com/furgonetah/dwarfingaround)
+- 🔭 I’m currently working on: [Dwarfing Around](https://github.com/furgonetah/dwarfingaround)
 
-- 🌱 I’m currently learning **Spring, Laravel, Unity and some Android**
+- 🌱 I’m currently learning: **Spring, Laravel, Unity and some Android**
 
-- 📫 How to reach me **via Discord: furgonetah**
+- 📫 How to reach me: **via Discord: furgonetah**
 
-- ⚡ Fun fact **I play drums in a band, here's our last album: https://open.spotify.com/intl-es/album/2aNboY34aHJDIoofEe06Bv?si=Xh2ThsoIQAeuLgfqNjw48w**
+- ⚡ Fun fact: **I play drums in a band, here's our last album: https://open.spotify.com/intl-es/album/2aNboY34aHJDIoofEe06Bv?si=Xh2ThsoIQAeuLgfqNjw48w**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
